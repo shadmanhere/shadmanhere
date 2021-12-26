@@ -1,1 +1,1 @@
-[![Shadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanhere)]
+![Shadman's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanhere)
