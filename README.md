@@ -13,8 +13,6 @@ Skills: REACT / Node / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shadmanhere)  
 
-![GitHub metrics](https://metrics.lecoq.io/shadmanhere)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shadmanhere)  
 
 ![Profile views](https://gpvc.arturio.dev/shadmanhere)  
