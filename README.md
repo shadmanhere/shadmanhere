@@ -1,3 +1,20 @@
-## **Hi there, I'm [Shadman!](https://github.com/shadmanhere)**
+### Hi there 👋, my name is Shadman
+#### I am FullStack Software Developer
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shadmanhere&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shadman's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanhere&layout=compact&theme=buefy&hide_border=true" /></a>
+Skills: REACT / Node / JS / HTML / CSS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shadmanhere)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanhere)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanhere&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shadmanhere)  
+
+![GitHub metrics](https://metrics.lecoq.io/shadmanhere)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shadmanhere)  
+
+![Profile views](https://gpvc.arturio.dev/shadmanhere)  
