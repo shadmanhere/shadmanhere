@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Shadman
 #### I am Full Stack Software Developer
 
-Skills: REACT / Node / JS / HTML / CSS
+Skills: REACT / Node / JS / Laravel / PHP / HTML / CSS
 
 
 
