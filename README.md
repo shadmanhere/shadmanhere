@@ -25,6 +25,4 @@
   </tr>
 </table>
 
-[![@shadmanhere's Holopin board](https://holopin.me/shadmanhere)](https://holopin.io/@shadmanhere)
-
-![Profile views](https://gpvc.arturio.dev/shadmanhere)  
+[![@shadmanhere's Holopin board](https://holopin.me/shadmanhere)](https://holopin.io/@shadmanhere) 
