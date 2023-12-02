@@ -4,9 +4,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@shadmanhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shadmanhere" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shadmanhere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadman ali" height="30" width="40" /></a>
-<a href="https://angel.co/u/shadmanhere" target="blank"><img align="center" src="https://user-images.githubusercontent.com/92180054/173208675-e748a4b7-112e-49a4-8779-0d8bd32d303d.svg" alt="shadman ali" height="30" width="40" /></a>
+<a href="https://twitter.com/@shadmanhere" target="blank"><img align="center" src="https://img.shields.io/badge/(formerly Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="@shadmanhere" /></a>
+<a href="https://www.linkedin.com/in/shadmanhere/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shadman ali" /></a>
+<a href="https://wellfound.com/u/shadmanhere" target="blank"><img align="center" src="https://img.shields.io/badge/Wellfound-EEEEEE?style=for-the-badge&logo=wellfound&logoColor=black" alt="shadman ali" /></a>
+
 </p>
 
 <h3 align="left">Skills :</h3>
