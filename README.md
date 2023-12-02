@@ -11,13 +11,14 @@
 
 <h3 align="left">Skills :</h3>
 <p align="center">
+<img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Express-F8981D?logo=express&logoColor=white&style=for-the-badge") />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-7A86B8?logo=php&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge") />
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge") />
 </p>
 
 <table>
