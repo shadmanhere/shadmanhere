@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Shadman
 #### I am Full Stack Software Developer
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadmanhere" alt="shadmanhere" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@shadmanhere" target="blank"><img align="center" src="https://img.shields.io/badge/(formerly Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="@shadmanhere" /></a>
@@ -23,12 +23,10 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
-
 <table>
   <tr>
     <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanhere&langs_count=10&layout=compact" alt="Shadman :: Top Langs" /></p></td>
     <td><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmanhere&" alt="shadmanhere" /></p></td>
   </tr>
  </table>
-
 [![@shadmanhere's Holopin board](https://holopin.me/shadmanhere)](https://holopin.io/@shadmanhere) 
