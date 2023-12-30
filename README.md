@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Shadman
 #### I am Full Stack Software Developer
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadmanhere" alt="shadmanhere" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shadmanhere" alt="shadmanhere" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@shadmanhere" target="blank"><img align="center" src="https://img.shields.io/badge/(formerly Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="@shadmanhere" /></a>
