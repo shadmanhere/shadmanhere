@@ -1,24 +1,4 @@
-Hey fellow coders! 👋 Welcome to my GitHub playground! I'm **Shadman**, a passionate full-stack developer on a mission to turn caffeine into code and ideas into interactive experiences. 💡💻
-
-### 🚀 Who Am I?
-I'm not just a developer; I'm a tech enthusiast who thrives on the creative dance between front-end finesse and back-end logic. From crafting elegant user interfaces to architecting scalable server-side solutions, I'm here to bring ideas to life.
-
-### 💼 What Keeps Me Busy?
-In this digital realm, you'll find a diverse collection of projects that span the full-stack spectrum. Whether it's a web app with a sleek UI, a backend system orchestrating data like a symphony, or an experiment with the latest tech trends, each repository tells a story of innovation and problem-solving.
-
-### 🛠️ Tech Arsenal
-My toolkit includes an arsenal of technologies, frameworks, and languages. From the classics to bleeding-edge, I believe in using the right tools for the job. Check out the repositories to uncover the tech stack behind the magic.
-
-### 🔧 Continuous Learning
-I'm not just about writing code; I'm about the relentless pursuit of improvement. The tech world evolves, and so do I. Dive into the commits, explore the branches – you'll see a journey of continuous learning and improvement.
-
-### 📬 Let's Connect!
-I'm always open to collaboration, feedback, and connecting with fellow developers. Have an idea, a suggestion, or just want to chat about the latest tech trends? Open an issue, submit a pull request, or drop me a message. The more minds, the merrier!
-
-### 🚀 Explore, Fork, Contribute
-Feel free to explore, fork, and contribute to any project that catches your eye. Collaboration is the heart of innovation, and I'm excited to see what incredible things we can build together.
-
-**Happy coding**, and may your bugs be minimal and your coffee strong! ☕💻✨
+Hello, I'm a versatile Full Stack Developer proficient in a wide array of technologies including Angular, React, NestJS, ExpressJS, JavaScript, Python, PHP, TypeScript, and React Native. With a passion for creating seamless user experiences and robust backend systems, I thrive in architecting and implementing innovative solutions across the stack. Whether it's crafting dynamic frontend interfaces, building scalable APIs, or developing cross-platform mobile applications, I bring a wealth of expertise and dedication to every project. Let's collaborate to bring your vision to life with efficiency and excellence.
 
 <h3 align="left">🏆 Trophies:</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shadmanhere" alt="shadmanhere" /></p>
