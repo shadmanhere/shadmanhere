@@ -6,9 +6,9 @@ Let's collaborate 🤝 to bring your vision to life with efficiency and excellen
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shadmanhere" alt="shadmanhere" /></p>
 <h3 align="left">📬 Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@shadmanhere" target="blank"><img align="center" src="https://img.shields.io/badge/(formerly Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="@shadmanhere" /></a>
-<a href="https://www.linkedin.com/in/shadmanhere/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shadman ali" /></a>
-<a href="https://wellfound.com/u/shadmanhere" target="blank"><img align="center" src="https://img.shields.io/badge/Wellfound-EEEEEE?style=for-the-badge&logo=wellfound&logoColor=black" alt="shadman ali" /></a>
+<a href="https://twitter.com/@shadmanhere" target="blank"><img src="https://img.shields.io/badge/(formerly Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="@shadmanhere" /></a>
+<a href="https://www.linkedin.com/in/shadmanhere/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shadman ali" /></a>
+<a href="https://wellfound.com/u/shadmanhere" target="blank"><img src="https://img.shields.io/badge/Wellfound-EEEEEE?style=for-the-badge&logo=wellfound&logoColor=black" alt="shadman ali" /></a>
 
 </p>
 
