@@ -34,7 +34,7 @@ Let's collaborate 🤝 to bring your vision to life with efficiency and excellen
 <h3 align="left">📈 Some Stats :</h3>
 <table>
   <tr>
-    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanhere&langs_count=10&layout=compact" alt="Shadman :: Top Langs" /></p></td>
+    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanhere&langs_count=20&layout=compact" alt="Shadman :: Top Langs" /></p></td>
     <td><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmanhere&" alt="shadmanhere" /></p></td>
   </tr>
  </table>
