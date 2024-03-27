@@ -31,6 +31,11 @@ Let's collaborate 🤝 to bring your vision to life with efficiency and excellen
 <img src="https://img.shields.io/badge/React Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 </p>
 
+<h3 align="left">🎨 UI / UX Tools :</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+</p>
+
 <h3 align="left">📈 Some Stats :</h3>
 <table>
   <tr>
