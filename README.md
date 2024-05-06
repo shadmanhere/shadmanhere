@@ -14,11 +14,12 @@ Let's collaborate 🤝 to bring your vision to life with efficiency and excellen
 
 <h3 align="left">📜 Languages :</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/PHP-7A86B8?logo=php&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PHP-7A86B8?logo=php&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sass/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
 <h3 align="left">🧑‍💻 Frameworks and Libraries :</h3>
