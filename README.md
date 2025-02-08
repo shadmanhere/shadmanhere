@@ -36,15 +36,3 @@ Let’s connect! Feel free to check out my repositories and reach out for collab
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </p>
-
-<h3 align="left">📈 Some Stats :</h3>
-<table>
-  <tr>
-    <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanhere&langs_count=20&layout=compact" alt="Shadman :: Top Langs" /></p></td>
-    <td><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmanhere&" alt="shadmanhere" /></p></td>
-  </tr>
- </table>
-
-<h3 align="left">🎖️ Holopins :</h3>
-
-[![@shadmanhere's Holopin board](https://holopin.me/shadmanhere)](https://holopin.io/@shadmanhere) 
