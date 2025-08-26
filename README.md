@@ -1,5 +1,7 @@
-Hi, I'm Shadman 👋, a senior full-stack developer and the founder of Desi Script 🚀, where I create innovative software solutions. With hands-on experience in building scalable web and mobile applications, I specialize in Angular ⚙️, NestJS 🔥, React ⚛️, NextJS 🌐, Spring Boot 🌱, and React Native 📱. I’ve built and scaled production systems that serve thousands of daily active users and have a strong passion for AI 🤖.
+A few years ago, I led the development of a web application that grew to serve more than 20,000 people daily. That experience taught me two things: how to build technology that actually scales, and how much the right software can transform a business.
 
-I love building tools that make a difference 🌟 and am always exploring new ways to improve the developer experience and help businesses scale 📈.
+But I also noticed something else: many startups and businesses in India struggled to find the right tech partner. They either got stuck with overpriced agencies or with freelancers who couldn’t deliver at scale.
 
-Let’s connect! Feel free to check out my repositories and reach out for collaborations or discussions on tech trends 🤝.
+That’s why I founded Desi Script, a software house built with one goal in mind: to give businesses startup-friendly, expert-level technology services they can trust. Today, we help companies build websites, apps, and digital solutions that don’t just work, but actually grow with their business.
+
+You can reach me at shadman.ali@live.co.uk.
